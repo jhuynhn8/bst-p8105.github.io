@@ -1,0 +1,9 @@
+---
+title: "About this website"
+output: 
+  html_document
+---
+
+This website was coded by Jeff Goldsmith using RMarkdown to do all the hard work. 
+
+Go back to the [homepage](index.html)
